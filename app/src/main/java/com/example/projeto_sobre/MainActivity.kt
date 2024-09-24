@@ -25,28 +25,28 @@ class MainActivity : AppCompatActivity() {
         val button1 = Button(this).apply {
             text = "Sobre Guilherme Gomes Andrade"
             setOnClickListener {
-                startActivity(Intent(this@MainActivity, AboutActivity1::class.java))
+                startActivity(Intent(this@MainActivity, AboutActivity_Guilherme_Gomes::class.java))
             }
         }
 
         val button2 = Button(this).apply {
             text = "Sobre João Victor Neves"
             setOnClickListener {
-                startActivity(Intent(this@MainActivity, AboutActivity2::class.java))
+                startActivity(Intent(this@MainActivity, AboutActivity_Guilherme_Holanda::class.java))
             }
         }
 
         val button3 = Button(this).apply {
             text = "Sobre Guilherme Holanda"
             setOnClickListener {
-                startActivity(Intent(this@MainActivity, AboutActivity3::class.java))
+                startActivity(Intent(this@MainActivity, AboutActivity_Joao_Victor::class.java))
             }
         }
 
         val button4 = Button(this).apply {
-            text = "Sobre 4"
+            text = "Sobre Lucas Barros"
             setOnClickListener {
-                startActivity(Intent(this@MainActivity, AboutActivity4::class.java))
+                startActivity(Intent(this@MainActivity, AboutActivity_Lucas_Barros::class.java))
             }
         }
 

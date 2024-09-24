@@ -9,7 +9,7 @@ import android.widget.ScrollView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
-class AboutActivity1 : AppCompatActivity() {
+class AboutActivity_Guilherme_Gomes : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 

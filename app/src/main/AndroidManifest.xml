@@ -23,10 +23,10 @@
         </activity>
 
         <!-- Adicionar as atividades adicionais aqui -->
-        <activity android:name=".AboutActivity1" android:exported="false"/>
-        <activity android:name=".AboutActivity2" android:exported="false"/>
-        <activity android:name=".AboutActivity3" android:exported="false"/>
-        <activity android:name=".AboutActivity4" android:exported="false"/>
+        <activity android:name=".AboutActivity_Guilherme_Gomes" android:exported="false"/>
+        <activity android:name=".AboutActivity_Guilherme_Holanda" android:exported="false"/>
+        <activity android:name=".AboutActivity_Joao_Victor" android:exported="false"/>
+        <activity android:name=".AboutActivity_Lucas_Barros" android:exported="false"/>
 
     </application>
 
